@@ -4,8 +4,8 @@ This project analyses the distance and relative velocity of asteroids drifiting 
 
 These visualizations help illustrate the distribution of near-Earth asteroid behavior and through this, researchers studying planetary motion and asteroid behaviour can understand the typical charactrisitics of asteroids, including their mean distance from earth and most probable velocities.
 
+<img width="850" height="670" alt="distance_distribution_of-asteroids" src="https://github.com/user-attachments/assets/55e7719b-9f48-4dba-9185-0ca568f94520" />
 
-<img width="871" height="685" alt="velocity_distributiion_of_asteroids" src="https://github.com/user-attachments/assets/2e71c140-6260-46b1-8d44-925a06d8edb1" />
+<img width="866" height="666" alt="velocity_distributiion_of_asteroids" src="https://github.com/user-attachments/assets/ef375c34-79d0-4e39-8b12-d34c3de9df2e" />
 
-<img width="858" height="675" alt="distance_distribution_of-asteroids" src="https://github.com/user-attachments/assets/0256e6b4-2ae3-44f9-979e-745c85f3d3eb" />
 <img width="398" height="408" alt="relative_velocity_vs_distance" src="https://github.com/user-attachments/assets/adbfbd12-2bfe-4abd-b29f-7e6a241f333b" />
