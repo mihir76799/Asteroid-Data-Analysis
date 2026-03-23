@@ -7,5 +7,5 @@ These visualizations help illustrate the distribution of near-Earth asteroid beh
 <img width="850" height="670" alt="distance_distribution_of-asteroids" src="https://github.com/user-attachments/assets/55e7719b-9f48-4dba-9185-0ca568f94520" />
 
 <img width="866" height="666" alt="velocity_distributiion_of_asteroids" src="https://github.com/user-attachments/assets/ef375c34-79d0-4e39-8b12-d34c3de9df2e" />
+<img width="398" height="404" alt="relative_velocity_vs_distance" src="https://github.com/user-attachments/assets/7c5a9bd2-186d-4fc3-b038-d2fc5fad5cf1" />
 
-<img width="398" height="408" alt="relative_velocity_vs_distance" src="https://github.com/user-attachments/assets/adbfbd12-2bfe-4abd-b29f-7e6a241f333b" />
